@@ -53,7 +53,7 @@ No, I didn't play basketball in high school. 😒
 ## My Projects
 ### Discord Bot
   * A custom Discord bot written in Python using discord.py
-  * Performs server moderation, role automation, music, real-time audio transcription, games, and more.
+  * Performs server moderation, role automation, music, real-time audio transcription, games, chat bot, and more.
 ### DnD Wikipedia web page
   * Will be a front end for our DM's Dungeons And Dragon's universe. Will have information on characters, locations, items of interest, perform combat calculations, and rolls.
   * Will be implemented using JavaScript, SQL, and CSS.
